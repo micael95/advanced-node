@@ -17,7 +17,7 @@ module.exports = {
   ],
   transform: {
     '\\.ts$': 'ts-jest'
-  },
+  }
   // clearMocks: true,
   // setupFiles: ['dotenv/config']
 }
